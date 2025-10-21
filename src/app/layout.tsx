@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Zylo - Modern SaaS Management Platform",
+  description: "Discover, manage, and optimize your software subscriptions. Reduce SaaS spending by up to 30% with complete visibility and automated management.",
 };
 
 export default function RootLayout({
